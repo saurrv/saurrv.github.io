@@ -1,9 +1,11 @@
 ---
 layout: page
-description: "Computer Scientist by heart. Fun Loving by nature."
+title: "Blog"
+description: "This is what I create."
+header-img: "img/about-bg.jpg"
 ---
 
-<!--{% for post in paginator.posts %}
+{% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -20,7 +22,6 @@ description: "Computer Scientist by heart. Fun Loving by nature."
 {% endfor %}
 
 <!-- Pager -->
-<!--
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
@@ -34,4 +35,4 @@ description: "Computer Scientist by heart. Fun Loving by nature."
     </li>
     {% endif %}
 </ul>
-{% endif %} -->
+{% endif %}
