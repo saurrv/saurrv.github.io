@@ -18,13 +18,36 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
+                <!--{% for page in site.pages %}{% if page.title %}
 				{% if page.url != '/404.html' %}
+                {% if page.title != "Resume"%}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
 				{% endif %}
-                {% endif %}{% endfor %}
+                {% endif %}
+                {% endif %}{% endfor %}-->
+                <li>
+                    <a href="{{ site.baseurl }}/about">About Me</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/blog">Blog</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/publications">Publications</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/projects">Projects</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/Resume/Resume.pdf" target="_blank">Resume</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/timeline">Timeline</a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/contact">Contact</a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
