@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "You earn your body"
+subtitle:   "Because fitness is much more than just good looks."
+date:       2016-12-31 00:00:00
+author:     "Saurabh Verma"
+header-img: "img/post-bg-2017-01-01-fitness.jpg"
+---
+
+<p>"Just a bit more! Push harder! No more fat!" With new year round the corner, fitness resolutions are on your mind. With this post, I want to share my experience and motivate my smart readers to get started. You don't have to be great to start, but you have to start to be great.</p>
+
+<blockquote>Human body has no limitations except thirst, hunger and sexual-urge. Can you please reiterate your excuse?</blockquote>
+
+<p>A well-built physique is much more than just good looks. It is a status symbol. A healthy frame reflects hard work and discipline. You cannot buy it, cannot inherit it, cannot borrow nor steal, you have to earn it. It exhibits self-respect, patience and dignity.</p>
+
+<p>So, what did you do? My personal experience with Guru Mann fitness. I followed 6-week shredded program by Guru Mann. Result, lost 7 kg in 6 weeks. What is more important to note, I shredded fat and developed all-round muscle. I </p>
+
+<a href="#"><img src="{{ site.baseurl }}/img/6-week-shredded-workout-program.jpg" alt="Program Image"></a>
+<span class="caption text-muted">6-week shredded program by Guru Mann</span>
+
+<p>Who is he? Why is he doing this? How do I get to know him? You can start with the below video and go where your goals and faith take you.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/52674f82I3w" frameborder="0" allowfullscreen></iframe>
+<!--<span class="caption text-muted">My story - Guru Mann Fitness</span>-->
+
+<p>The goals of writing this article were to motivate a start, share my experience and appreciate my inspiration, Guru Mann. I want you to help me make this article a success by just hitting the gym without too much of thinking.</p>
