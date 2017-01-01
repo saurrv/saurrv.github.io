@@ -5,8 +5,27 @@ description: "This is what I have shown."
 header-img: "img/about-bg.jpg"
 ---
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+{% for paper in site.data.publications %}
+<div class="post-preview">
+    <a href="{% if paper.url %} {{ paper.url }} {% else %} # {% endif %}">
+        <h2 class="post-title"> {{ paper.title }} </h2>
+    </a>    
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
+    {% if paper.subtitle %}
+    <h3 class="post-subtitle">
+        {{ paper.subtitle }}
+    </h3>
+    {% endif %}
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>
+    <p> {{ paper.description }} </p>
+
+    {% if paper.image %}
+    <img src=" {{ paper.image | prepend: site.baseurl }}">
+    {% endif %}
+
+    {% if paper.reference %}
+    <p class="post-meta"> {{ paper.reference }}.</p>
+    {% endif %}
+</div>
+<hr>
+{% endfor %}
