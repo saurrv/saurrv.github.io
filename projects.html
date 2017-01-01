@@ -7,11 +7,15 @@ header-img: "img/about-bg.jpg"
 
 {% for project in site.data.projects %}
 <div class="post-preview">
-    <a href="{{ project.github-url }}"> <h2 class="post-title"> {{ project.name }} </h2></a>
+    <a href="{% if project.url %} {{ project.url }} {% else %} # {% endif %}">
+        <h2 class="post-title"> {{ project.name }} </h2>
+    </a>
 
-    <!--{% if project.github-url %}
-    <p class="post-meta">{{ project.github-url }}</p>
-    {% endif %}-->
+    {% if project.subtitle %}
+    <h3 class="post-subtitle">
+        {{ project.subtitle }}
+    </h3>
+    {% endif %}
 
     <p> {{ project.description }} </p>
     

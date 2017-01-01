@@ -1,6 +1,5 @@
 - name: "Algorithm Library"
-  github-url: "https://github.com/saurv4u/Algorithm-Library"
-  image: 
-  description: "Set of my own implementations of algorithms and data structures commonly used in different mathematical and programming contests with some of the highlights being Geometry template, Dynamic Convex Hull Trick, Suffix Arrays, Z-Algorithm, Lazy Propagation and Ford Fulkerson's algorithm. My favorite is basic template which is capable of solving most of the challenging problems which do not need advanced knowledge - most loved problems."
-
-  
+  url: "https://github.com/saurv4u/Algorithm-Library"
+  image: ""
+  subtitle: ""
+  description: "Set of my own implementations of algorithms and data structures commonly used in different mathematical and programming contests with some of the highlights being Geometry template, Dynamic Convex Hull Trick, Suffix Arrays, Z-Algorithm, Lazy Propagation and Ford Fulkerson's algorithm. My favorite is basic template which is capable of solving most of the challenging problems which do not need advanced knowledge - most loved problems." 
