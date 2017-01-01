@@ -5,10 +5,19 @@ description: "This is what I do."
 header-img: "img/about-bg.jpg"
 ---
 
-<p>Parsing Soon!</p>
-<!--
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totam ducimus consectetur?</p>
+{% for project in site.data.projects %}
+<div class="post-preview">
+    <a href="{{ project.github-url }}"> <h2 class="post-title"> {{ project.name }} </h2></a>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum in officia voluptas voluptatibus, minus!</p>
+    <!--{% if project.github-url %}
+    <p class="post-meta">{{ project.github-url }}</p>
+    {% endif %}-->
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum molestiae debitis nobis, quod sapiente qui voluptatum, placeat magni repudiandae accusantium fugit quas labore non rerum possimus, corrupti enim modi! Et.</p>-->
+    <p> {{ project.description }} </p>
+    
+    {% if project.image %}
+    <img src=" {{ project.image | prepend: site.baseurl }}">
+    {% endif %}
+</div>
+<hr>
+{% endfor %}

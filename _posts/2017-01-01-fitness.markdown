@@ -25,4 +25,4 @@ header-img: "img/post-bg-2017-01-01-fitness.jpg"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52674f82I3w" frameborder="0" allowfullscreen></iframe>
 <!--<span class="caption text-muted">My story - Guru Mann Fitness</span>-->
 
-<p>The goals of writing this article were to motivate a start, share my experience and appreciate my inspiration, Guru Mann. I want you to help me make this article a success by just hitting the gym without anymore thinking. I will end with my all-time favorite, "Do not think, Just do it!"</p>
+<p>The goals of writing this article were to motivate a start, share my experience and appreciate my inspiration, Guru Mann. I want you to help me make this article a success by just hitting the gym without anymore thinking. I will conclude with my all-time favorite, "Do not think, Just do it!"</p>
