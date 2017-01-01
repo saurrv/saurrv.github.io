@@ -15,7 +15,7 @@ header-img: "img/post-bg-2017-01-01-fitness.jpg"
 
 <p>A well-built physique is much more than just good looks. It is a status symbol. A healthy frame reflects hard work and discipline. You cannot buy it, cannot inherit it, cannot borrow nor steal, you have to earn it. It exhibits self-respect, patience and dignity.</p>
 
-<p>So, what have you done? I finished 6-week shredded program by Guru Mann and lost more than 7 kg in 6 weeks. My personal experience with Guru Mann fitness has been totally amazing. I was supplied with all the information I needed and was challenged to train weaker muscles which are usually ignored, for an overall definition. Some examples of such muscles include rear delts, Brachialis, Serratus, Intercostal and many more. The only thing which could have been improved was my concentration. I could not have been more happier with the details and results.</p>
+<p>So, what have you done? I finished 6-week shredded program by Guru Mann and lost more than 7 kg in 6 weeks. I got results which I could not get in years. My personal experience with Guru Mann fitness has been totally amazing. I was supplied with all the information I needed and was challenged to train weaker muscles which are usually ignored, for an overall definition. Some examples of such muscles include rear delts, Brachialis, Serratus, Intercostal and many more. The only thing which could have been improved was my concentration. With immense gratitude, I dedicate my results to Guru Mann.</p>
 
 <a href="http://www.gurumann.com/6Weekshredded.html"><img src="{{ site.baseurl }}/img/6-week-shredded-workout-program.jpg" alt="Program Image"></a>
 <span class="caption text-muted">6-week shredded program by Guru Mann</span>
@@ -25,4 +25,4 @@ header-img: "img/post-bg-2017-01-01-fitness.jpg"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52674f82I3w" frameborder="0" allowfullscreen></iframe>
 <!--<span class="caption text-muted">My story - Guru Mann Fitness</span>-->
 
-<p>The goals of writing this article were to motivate a start, share my experience and appreciate my inspiration, Guru Mann. I want you to help me make this article a success by just hitting the gym without anymore thinking. </p>
+<p>The goals of writing this article were to motivate a start, share my experience and appreciate my inspiration, Guru Mann. I want you to help me make this article a success by just hitting the gym without anymore thinking. I will end with my all-time favorite, "Do not think, Just do it!"</p>
