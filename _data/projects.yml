@@ -1,5 +1,12 @@
+- name: "Using Deep Learning to improve Content Retrieval and Recommendation"
+  url: "https://github.com/saurv4u/Deep-Learning-for-Content-Retrieval"
+  image: ""
+  subtitle: ""
+  description: "Motivation: The hidden cost of publishing, that is maintaining the content, is usually ignored resulting in humongous online content which may be trivial, redundant or outdated. Problem Statement: Given a corpus of news articles, find a set of articles that would be most popular pieces after eliminating trivial, redundant and outdated content. This is my ongoing Bachelor's Thesis Project." 
+
 - name: "Algorithm Library"
   url: "https://github.com/saurv4u/Algorithm-Library"
   image: ""
   subtitle: ""
   description: "Set of my own implementations of algorithms and data structures commonly used in different mathematical and programming contests with some of the highlights being Geometry template, Dynamic Convex Hull Trick, Suffix Arrays, Z-Algorithm, Lazy Propagation and Ford Fulkerson's algorithm. My favorite is basic template which is capable of solving most of the challenging problems which do not need advanced knowledge - most loved problems." 
+
