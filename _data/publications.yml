@@ -1,6 +1,8 @@
 - title: "Usage based Tag Enhancement of Images"
   subtitle: "Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) 2017"
   image: ""
-  url: ""
+  url: "/Publications/UsageBasedTagEnhancement.pdf"
   reference: ""
-  description: "Appropriate tagging of images is at the heart of efficient recommendation and retrieval and is commonly used with search engines and content management systems for indexing image content. However, existing technologies in image tagging focuses on what the content contains than how it is perceived. However, for a practical utilization of these tags, it is paramount to understand the usage of the image and incorporate them with the tags for better retrieval and recommendation. In places where the usage of the content is captured from the associated content, little is done to semantically connect the textual and visual content for a homogeneous tag representation. In this work we propose a system that analyzes the usage of an image and utilizes the information thus obtained to enhance the image tags."
+  description: "Appropriate tagging of images is at the heart of efficient recommendation and retrieval and is used for indexing image content. Existing technologies in image tagging either focus on what the image contains based on a visual analysis or utilize the tags from the textual content accompanying the images as the image tags. While the former is insufficient to get a complete understanding of how the image is perceived and used in various context, the latter results in a lot of irrelevant tags particularly when the accompanying text is large. To address this issue, we propose an algorithm based on graph-based random walk that extracts only image-relevant tags from the accompanying text. We perform detailed evaluation of our scheme by checking its viability using human annotators as well as by comparing with state-of-the art algorithms. Experimental results show that the proposed algorithm outperforms base-line algorithms with respect to different metrics."
+
+
