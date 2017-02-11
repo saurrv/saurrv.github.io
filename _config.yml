@@ -13,9 +13,28 @@ instagram_username:  _saurabhverma_
 linkedin_username:  saurabh-verma-iitr
 quora_username:  Saurabh-Verma-43
 
+social: 
+  name: Saurabh Verma
+  links:
+    - https://saurrv.github.io/
+    - https://www.facebook.com/saurrv
+    - https://github.com/saurv4u
+    - https://www.linkedin.com/in/saurabh-verma-iitr
+    - https://www.topcoder.com/members/saurv4u/
+    - http://codeforces.com/profile/saurrv
+    - https://www.codechef.com/users/saurv4u
+    - http://www.spoj.com/users/saurv4u/
+    - https://saurrv.github.io/Resume/Resume.pdf
+    - https://www.hackerearth.com/@saurv4u
+    - https://www.hackerrank.com/saurv4u
+    - https://www.quora.com/profile/Saurabh-Verma-43
+    - https://twitter.com/saurv4u
+    - https://www.instagram.com/_saurabhverma_/
+
+
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-89561344-1
 
 # Build settings
 markdown: kramdown
@@ -25,4 +44,4 @@ paginate: 5
 paginate_path: "/blog/page-:num"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
