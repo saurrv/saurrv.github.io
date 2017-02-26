@@ -1,4 +1,4 @@
 # robots.txt for https://saurrv.github.io/
 
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://saurrv.github.io/sitemap.xml
