@@ -6,7 +6,7 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="google-site-verification" content="G5apyJPrx7K02Z00wZD7FK6nux_JCPQtIRp7TvUIp9c" />
 
-    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 

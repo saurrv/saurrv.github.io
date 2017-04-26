@@ -2,7 +2,7 @@
 title: Saurabh Verma
 header-img: img/home-bg.jpg
 copyright_name: Saurabh Verma
-description: "Saurabh Verma, Computer science graduate from IIT Roorkee. Computer Scientist. Indian Institute of Technology Roorkee. saurv4u. saurrv. India."
+description: "Saurabh Verma, Computer science graduate from IIT Roorkee. Computer Scientist by heart. Working at Google. Indian Institute of Technology Roorkee. saurv4u. saurrv. India."
 baseurl: ""
 url: "https://saurrv.github.io/"
 twitter_username: saurv4u
@@ -44,4 +44,32 @@ paginate: 5
 paginate_path: "/blog/page-:num"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap, jekyll-assets]
+
+# Jekyll Assets
+assets:
+  sources:
+    - css
+    - _fonts
+    - img
+    - js
+    - less
+    - misc
+  compress:
+    css: true
+    js: true
+
+  autowrite: true
+  cache: .asset-cache
+  cache_type: filesystem
+  digest: true
+
+  assets:
+    - "*.png"
+    - "*.jpg"
+    - "bundle.css"
+  features:
+    liquid: false
+    integrity: false
+    automatic_img_size: true
+    automatic_img_alt : true
