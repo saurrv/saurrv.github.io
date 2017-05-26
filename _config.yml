@@ -47,7 +47,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 # indexgit_document: index.html
 # error_document: 404.html
 
-gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap, jekyll-assets]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap, jekyll-assets, jekyll-srcset]
 
 max_age:
   "assets/*": 2629000
@@ -92,3 +92,6 @@ assets:
     integrity: false
     automatic_img_size: true
     automatic_img_alt : true
+
+srcset:
+  cache: "/tmp/images"
