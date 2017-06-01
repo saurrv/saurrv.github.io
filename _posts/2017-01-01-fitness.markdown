@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "You earn your body"
-subtitle:   "Because fitness is much more than just good looks."
-date:       2016-12-31 00:00:00
-author:     "Saurabh Verma"
+layout: post
+title: "You earn your body"
+subtitle: "Because fitness is much more than just good looks."
+date: 2016-12-31 00:00:00
+author: "Saurabh Verma"
 header-img: "img/post-bg-2017-01-01-fitness.jpg"
 ---
 
