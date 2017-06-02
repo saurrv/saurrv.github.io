@@ -2,7 +2,7 @@
 layout: post
 title: "From Google to Google"
 subtitle: "The complete divergent placement story of mine. How I took myself up on my worst days!"
-date: 2016-06-01 17:00:00
+date: 2017-06-01 17:00:00
 author: "Saurabh Verma"
 header-img: "img/post-bg-2017-06-01-placement.jpg"
 ---
