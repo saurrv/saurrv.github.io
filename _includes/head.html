@@ -78,9 +78,8 @@
     {% endif %}
 
     {% if page.image %}
-      <meta content="../img/{{ page.image }}" property="og:image">
     {% else %}
-      <meta content="../img/{{ site.image }}" property="og:image">
+      <meta content="{{ site.image }}" property="og:image">
     {% endif %}
 
 </head>
