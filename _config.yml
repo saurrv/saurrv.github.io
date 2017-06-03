@@ -36,8 +36,6 @@ social:
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-89561344-1
 
-google_site_verification:
-
 lang: en_US
 
 # Build settings
@@ -65,6 +63,12 @@ gzip:
 
 facebook:
   app_id: 141958116350716
+  publisher: 100003199660241
+  admins: 100003199660241
+
+
+twitter:
+  username: saurv4u
 
 
 # Jekyll Assets
