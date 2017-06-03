@@ -4,7 +4,7 @@ title: "From Google to Google"
 subtitle: "The complete divergent placement story of mine. How I took myself up on my worst days!"
 date: 2017-06-01 17:00:00
 author: "Saurabh Verma"
-header-img: "img/post-bg-2017-06-01-placement.jpg"
+image: "img/post-bg-2017-06-01-placement.jpg"
 ---
 
 <p>It is supposedly the most important season in a student's life, the placement season. Today, I am writing to share one of the most unexpected and exhausting journeys of my student life. An year ago, I had no idea that I would be writing something like this, but today I would be happy to do it all over again.</p>

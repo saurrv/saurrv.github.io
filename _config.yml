@@ -1,6 +1,6 @@
 # Site settings
 title: Saurabh Verma
-header-img: img/home-bg.jpg
+image: img/home-bg.jpg
 copyright_name: Saurabh Verma
 description: "Saurabh Verma, Computer science graduate from IIT Roorkee. Computer Scientist by heart. Software Engineer at Google. Indian Institute of Technology Roorkee. Username: saurv4u. saurrv. India."
 baseurl: ""
@@ -36,6 +36,10 @@ social:
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-89561344-1
 
+google_site_verification:
+
+lang: en_US
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -58,6 +62,10 @@ gzip:
   - .html
   - .css
   - .js
+
+facebook:
+  app_id: 141958116350716
+
 
 # Jekyll Assets
 assets:
