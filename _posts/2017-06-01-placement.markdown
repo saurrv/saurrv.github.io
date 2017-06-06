@@ -1,10 +1,11 @@
 ---
+title: From Google to Google
 layout: post
-title: "From Google to Google"
-subtitle: "The complete divergent placement story of mine. How I took myself up on my worst days!"
-date: 2017-06-01 17:00:00
-author: "Saurabh Verma"
-image: "img/post-bg-2017-06-01-placement.jpg"
+subtitle: The complete divergent placement story of mine. How I took myself up on
+  my worst days!
+date: '2017-06-01 22:30:00 +0530'
+author: Saurabh Verma
+image: img/post-bg-2017-06-01-placement.jpg
 ---
 
 <p>It is supposedly the most important season in a student's life, the placement season. Today, I am writing to share one of the most unexpected and exhausting journeys of my student life. An year ago, I had no idea that I would be writing something like this, but today I would be happy to do it all over again.</p>
@@ -29,5 +30,5 @@ image: "img/post-bg-2017-06-01-placement.jpg"
 
 <p>Resilience and Grit do wonders beyond the imagination. I shared this experience to remember to pick myself up once more on my fall. It shall serve as an example for all those failures to come. My ideal life is not in the comfort zone where there are no bad days, but in those lovely dreams which can give me a sense of achievement. I hope you get to learn something for yourself from my experience and make this a useful read. It is really difficult to experience how would someone feel in the same situation without the knowledge that you have. Therefore, should you have any questions or clarification requests, please reach out to me. It will help all of us!</p>
 
-<p>The following is one of my favorite motivational videos where the star of the millennium, Amitabh Bachchan is reciting a famous poetry "Koshish karne walo ki kabhi haar nahi hoti" by his father Shri Harivansh Rai Bachchan on his very popular TV Show - Kaun Banega Crorepati.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xTlTB2EX2Z8" frameborder="0" allowfullscreen></iframe>
+<!--<p>The following is one of my favorite motivational videos where the star of the millennium, Amitabh Bachchan is reciting a famous poetry "Koshish karne walo ki kabhi haar nahi hoti" by his father Shri Harivansh Rai Bachchan on his very popular TV Show - Kaun Banega Crorepati.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xTlTB2EX2Z8" frameborder="0" allowfullscreen></iframe>-->

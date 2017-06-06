@@ -44,12 +44,13 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 paginate_path: "/blog/page-:num"
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", ".asset-cache"]
 
 # indexgit_document: index.html
 # error_document: 404.html
 
 gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap, jekyll-assets, jekyll-srcset]
+# jekyll-mentions, jekyll-minifier, jekyll-polyglot]
 
 max_age:
   "assets/*": 2629000
@@ -60,6 +61,9 @@ gzip:
   - .html
   - .css
   - .js
+
+jekyll-mentions:
+  base_url: https://twitter.com
 
 facebook:
   app_id: 141958116350716
@@ -107,3 +111,11 @@ assets:
 
 srcset:
   cache: "/tmp/images"
+
+jekyll_admin:
+  hidden_links:
+
+languages: ["en", "fr"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
