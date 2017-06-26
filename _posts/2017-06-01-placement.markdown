@@ -1,8 +1,7 @@
 ---
 title: From Google to Google
 layout: post
-subtitle: The complete divergent placement story of mine. How I took myself up on
-  my worst days!
+subtitle: The complete divergent placement story of mine. How I took myself up on my worst days!
 date: '2017-06-01 22:30:00 +0530'
 author: Saurabh Verma
 image: img/post-bg-2017-06-01-placement.jpg
