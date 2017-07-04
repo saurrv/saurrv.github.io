@@ -62,7 +62,7 @@
                         </a>
                     </li>
                     {% endif %}-->
-                    <!--{% if site.quora_username %}
+                    {% if site.quora_username %}
                     <li>
                         <a href="https://www.quora.com/profile/{{ site.quora_username }}">
                             <span class="fa-stack fa-lg">
@@ -71,7 +71,17 @@
                             </span>
                         </a>
                     </li>
-                    {% endif %}-->
+                    {% endif %}
+                    {% if site.twitter_username %}
+                    <li>
+                        <a href="https://www.twitter.com/{{ site.twitter_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
                 </ul>
                 <p class="copyright text-muted">&copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
             </div>
