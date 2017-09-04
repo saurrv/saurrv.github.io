@@ -32,7 +32,7 @@ image: img/post-bg-2017-07-20-get-a-tech-job.jpg
 				<p>Participate in competitions organised or sponsored by Google, such as <a href="https://codejam.withgoogle.com/codejam/kickstart/">Kickstart</a>, <a href="https://code.google.com/codejam/">CodeJam</a>, <a href="https://www.topcoder.com/blog/srm-sponsored-by-google/">Sponsored SRMs on TopCoder</a> or other sites, <a href="https://capturetheflag.withgoogle.com/">Google CTF</a>, <a href="https://summerofcode.withgoogle.com/">GSoC</a> etc. For Facebook, sponsored SRMs, <a href="https://www.facebook.com/hackercup/">Hackercup</a> etc.</p>
 			</li>
 			<li>
-				<p>You can always refer to technical guide for student by Google itself. <a href="https://www.google.com/about/careers/students/guide-to-technical-development.html">Technical Development Guide</a>.</p>
+				<p>You can always refer to technical guide for student by Google itself. <a href="https://techdevguide.withgoogle.com/">Technical Development Guide</a>.</p>
 			</li>
 			<li>
 				<p>Find a bug in these companies’ software or claim bug bounties. <a href="https://www.google.com/about/appsecurity/reward-program/">Google</a>. <a href="https://www.facebook.com/whitehat">Facebook</a>.</p>
