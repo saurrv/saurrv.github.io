@@ -29,7 +29,7 @@ image: img/post-bg-2017-10-25-pragmatic-programmer.jpg
         <p>Your knowledge and experience are your most important professional assets. They are expiring assets. Your knowledge portfolio is similar to financial portfolio: Invest regularly, Diversify, Manage risks, buy low sell high and constantly review.</p>
     </li>
     <li>
-        <p>Sample goals: Learn at least one new language a year, read a technical book a quarter, read nontech books, take classes, engage with people, stay updated and curious.</p>
+        <p>Sample goals: Learn at least one new language a year, read a technical book a quarter, read non-tech books, take classes, engage with people, stay updated and curious.</p>
     </li>
     <li>
         <p>Search for answers and think critically about what you read to understand complex answers.</p>
@@ -97,7 +97,7 @@ image: img/post-bg-2017-10-25-pragmatic-programmer.jpg
         <p>Learn text manipulation to quickly do short tasks, experiments and more. The author lists a big set of examples he did with Perl.</p>
     </li>
     <li>
-        <p>Write code that generates code, maybe passive - ran once to save manual work and time or active - constantly parsed and re-written, for example, thrift. Keep the input format simple.</p>
+        <p>Write code that generates code, maybe passive - ran once to save manual work and time or active - constantly parsed and rewritten, for example, thrift. Keep the input format simple.</p>
     </li>
 </ul>
 
