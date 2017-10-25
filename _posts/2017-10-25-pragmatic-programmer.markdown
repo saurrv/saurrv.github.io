@@ -1,7 +1,7 @@
 ---
 title: Don't just write lines, craft your code
 layout: post
-subtitle: Lessons from the book "The Pragmatic Programmer" by Andrew Hunt and David Thomas.
+subtitle: Lessons from the book - The Pragmatic Programmer by Andrew Hunt and David Thomas.
 date: '2017-10-25 23:30:00 +0530'
 author: Saurabh Verma
 image: img/post-bg-2017-10-25-pragmatic-programmer.jpg
