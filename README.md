@@ -1,2 +1,11 @@
-# saurrv.github.io
-Growing my online presence with my own personal website
+# Saurabh Verma
+
+## Jekyll
+
+https://jekyllrb.com/docs/
+
+## Dependency management
+
+Current versions for compatible gems: https://pages.github.com/versions/
+
+

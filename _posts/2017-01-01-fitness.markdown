@@ -5,6 +5,7 @@ subtitle: "Because fitness is much more than just good looks."
 date: 2016-12-31 00:00:00
 author: "Saurabh Verma"
 image: "img/post-bg-2017-01-01-fitness.jpg"
+hidden: true
 ---
 
 <p>"Just a bit more! Push harder! No more fat!" With new year round the corner, fitness resolutions are on your mind. With this post, I want to share my experience and motivate my smart readers to get started. You don't have to be great to start, but you have to start to be great.</p>

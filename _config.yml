@@ -5,13 +5,11 @@ copyright_name: Saurabh Verma
 description: "Saurabh Verma, Computer science graduate from IIT Roorkee. Computer Scientist by heart. Software Engineer at Google. Indian Institute of Technology Roorkee. Username: saurv4u. saurrv. India."
 baseurl: ""
 url: "https://saurrv.github.io/"
-twitter_username: saurabhvermaaaa
 github_username:  saurabhvermaaaa
-facebook_username:  saurabhvermaaaa
-email_username:  saurrv@gmail.com
-instagram_username:  saurabhvermaaaa
-linkedin_username:  saurabhvermaaaa
-quora_username:  Saurabh-Verma-43
+email_username:  me@saurabh-verma.com
+linkedin_username:  -saurabh-verma-
+instagram_username: sauftver
+twitter_username: sauftver
 
 social: 
   name: Saurabh Verma
@@ -69,11 +67,6 @@ facebook:
   app_id: 141958116350716
   publisher: 100003199660241
   admins: 100003199660241
-
-
-twitter:
-  username: saurv4u
-
 
 # Jekyll Assets
 assets:

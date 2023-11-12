@@ -5,6 +5,7 @@ subtitle: What is Capital dumping and why you should care about it?
 date: '2017-09-29 01:30:00 +0530'
 author: Saurabh Verma
 image: img/post-bg-2017-09-29-cash-dumping.jpg
+hidden: true
 ---
 
 <p>Why should you care about two words that may mean something on economical front? Because if you are reading this, capital dumping is already affecting you. It affects customers, entrepreneurs, businesses, investors, workers and the economy in general. You need to know how your choices now affect your choices in the future.</p>
